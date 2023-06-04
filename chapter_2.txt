@@ -1,0 +1,2 @@
+This is the fist time to use vim for editor, 
+Its great.
